@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chia-Wei Kuo website"
+title: "Chia-Wei Kuo's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chia-Wei Kuo, a PhD student in Mechanical Engineering Department at University of Wisconsin - Madison. 
+Hi, I am Chia-Wei Kuo, a PhD student in mechanical engineering department at University of Wisconsin - Madison. I received my B.S. from aerospace engineering at National Cheng Kung University, and M.S. from mechanical engineering at National Taiwan University. I had 3-year full-time working experiences at mechanical product designs and solar thermal research. I am the member of Phi Kappa Phi at University of Wisconsin - Madison, and the member of Phi Tau Phi at National Cheng Kung University. I am specialized in [computational fluid dynamics], [numerical heat transfer], [computer-aided engineering], [two-phase flow simulation], [numerocal solver development], [modeling of droplet breakup], [adaptive mesh refinement], [soler thermal energy]. I have used [ANSYS Fluent], [ANSYS CFX], [OpenFOAM], [TRNSYS], [AutoCAD], [SolidWorks], [Pro/E] and so on. I used [C++] and [MATLAB] as the two primary programming languages.   
 
 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 
 For more info
