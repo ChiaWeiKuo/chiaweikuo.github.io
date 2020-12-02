@@ -1,6 +1,7 @@
 ---
 title: "Evaluation and validation of large-eddy simulation sub-grid spray dispersion models using high-fidelity volume-of-fluid simulation data and engine combustion network experimental data"
 collection: publications
+permalink: /publication/2018-Tseng-IJER
 date: 2018-05-13
 venue: 'International Journal of Engine Research'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/1468087418772219'
