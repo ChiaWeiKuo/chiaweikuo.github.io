@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/2014-CWK-Procedia-Engineer
 date: 2014-01-01
 venue: 'Procedia Engineering'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0960148113006605'
-citation: 'Chia-Wei Kuo, Wen-Chey Chang, Keh-Chin Chan; <i> Renewable Energy</i>. Vol. 66, pg. 56-61, 2014.'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1877705814009199'
+citation: 'Chia-Wei Kuo, Pei-Shan Yen, Wen-Chey Chang, Keh-Chin Chan; <i> Procedia Engineering</i>. Vol. 79, pg. 258-262, 2014.'
 ---
-Using the data for global and diffuse radiation in Tainan, Taiwan, for the years of 2011 and 2012, respectively, four correlation models with five predictors: the hourly clearness index (kt), solar altitude, apparent solar time, daily clearness index and a measure of persistence of global radiation level, are constructed to relate the hourly diffuse fraction on a horizontal surface (d) to the clearness index. Two models use a single logistic equation for all kt values, Eqs. (6), (7), and the other two models use a set of piece-wise linear equations for four kt intervals, Eqs. (8), (9). The proposed models are compared respectively with the fourteen models available in the literature, in terms of the four statistical indicators...
+For various applications of solar thermal energy, the compound parabolic collector (CPC) is frequently used. To overcome the major limits of a traditional CPC, including a rapid increase in height for a larger aperture width and a low concentration ratio, a modified design was proposed in this paper. This research follows the recent study of Jadhav et al., which used only the region below the common focus of parabolas. Through optical analysis, a design modification was achieved by adjusting the vertical position of the receiver. From the results, setting the height of the receiver to 0.46 times the aperture width was found to permit a greater collection range of incident rays...
+
+[Download paper here](http://chiaweikuo.github.io/files/2014-CWK-Procedia-Engineer.pdf)
