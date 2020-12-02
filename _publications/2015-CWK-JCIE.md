@@ -1,5 +1,5 @@
 ---
-title: "In-situ measurements of solar diffuse fraction in southern Taiwan"
+title: "(Journal) In-situ measurements of solar diffuse fraction in southern Taiwan"
 collection: publications
 permalink: /publication/2015-CWK-JCIE
 excerpt: 'Information on diffuse fraction is vital for solar energy applications using concentrating techniques such as concentrating photovoltaic and concentrating solar power. To provide this information for Taiwan, in situ measurements of solar diffuse fraction have been conducted at the Kuei-Jen campus of the National Cheng Kung University, Tainan since 2011. Calculations of the daily, monthly, and annual average diffuse fractions were made with five various sunshine durations...'
