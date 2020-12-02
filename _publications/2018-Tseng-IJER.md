@@ -2,7 +2,7 @@
 title: "Evaluation and validation of large-eddy simulation sub-grid spray dispersion models using high-fidelity volume-of-fluid simu- lation data and engine combustion network experimental data"
 collection: publications
 permalink: /publication/2018-Tseng-IJER
-date: 2018
+date: 2018-05-13
 venue: 'International Journal of Engine Research, 2018,'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/1468087418772219'
 citation: 'Chi-Wei Tsang, Chia-Wei Kuo, Mario Trujillo, Christopher Rutland; <i>Journal 1</i>. 1(1).'
