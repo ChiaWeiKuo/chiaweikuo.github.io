@@ -6,7 +6,6 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2014-01-01
 venue: 'Renewable Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0960148113006605'
-citation: 'Chia-Wei Kuo, Wen-Chey Chang, Keh-Chin Chang. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 Using the data for global and diffuse radiation in Tainan, Taiwan, for the years of 2011 and 2012, respectively, four correlation models with five predictors: the hourly clearness index (kt), solar altitude, apparent solar time, daily clearness index and a measure of persistence of global radiation level, are constructed to relate the hourly diffuse fraction on a horizontal surface (d) to the clearness index. Two models use a single logistic equation for all kt values, Eqs. (6), (7), and the other two models use a set of piece-wise linear equations for four kt intervals, Eqs. (8), (9). The proposed models are compared respectively with the fourteen models available in the literature, in terms of the four statistical indicators...
 
