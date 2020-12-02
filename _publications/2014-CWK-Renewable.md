@@ -2,7 +2,6 @@
 title: "Modeling the hourly solar diffuse fraction in Taiwan"
 collection: publications
 permalink: /publication/2014-CWK-Renewable
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2014-01-01
 venue: 'Renewable Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0960148113006605'
