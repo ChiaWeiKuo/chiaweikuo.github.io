@@ -3,7 +3,7 @@ title: "Parallelizing Advection Equation using OpenMP, MPI and CUDA"
 collection: talks
 type: "Coure Project"
 permalink: /talks/HPC_project
-venue: "Department of Mechanical Engineering, University of Wisconsin - Madisonesting"
+venue: "Department of Mechanical Engineering, University of Wisconsin - Madison"
 date: 2017-12-21
 ---
 
