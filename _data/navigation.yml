@@ -6,6 +6,9 @@ main:
   - title: "Projects"
     url: /projects/
     
+  - title: "test"
+    url: /test/ 
+    
 #  - title: "Conference Proceeding"
 #    url: /publications/
     
