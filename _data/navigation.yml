@@ -3,7 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Conference Proceeding"
+  - title: "Projects"
+    url: /projects/
+    
+#  - title: "Conference Proceeding"
 #    url: /publications/
     
 #  - title: "Conference Proceeding"
