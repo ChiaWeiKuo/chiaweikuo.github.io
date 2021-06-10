@@ -9,8 +9,10 @@ main:
   - title: "Projects"
     url: /talks/   
 
-  - title: "Miscellaneous"
-   url: /miscellaneous/    
+   - title: "Miscellaneous"
+   
+#  - title: "Miscellaneous"
+#   url: /miscellaneous/    
            
 #  - title: "CV"
  #   url: /cv/
