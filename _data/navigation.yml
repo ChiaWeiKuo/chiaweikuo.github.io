@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conference Proceeding"
-    url: /teaching/   
+#  - title: "Conference Proceeding"
+#    url: /teaching/   
 
-  - title: "Conference Proceeding"
-    url: /teaching/  
+#  - title: "Conference Proceeding"
+#    url: /teaching/  
     
-  - title: "Projects"
-    url: /talks/   
+#  - title: "Projects"
+#    url: /talks/   
 
-   - title: "Miscellaneous"
+#   - title: "Miscellaneous"
    
 #  - title: "Miscellaneous"
 #   url: /miscellaneous/    
