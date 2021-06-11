@@ -5,7 +5,7 @@ title: "Publications"
 
 
 
-# 1. (2021) An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
+# (2021) An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
 Chia-Wei Kuo and Mario F. Trujillo, "An analysis of the performance enhancement with adaptive mesh refinement for spray problems", <i>International Journal of Multiphase Flow</i>. Vol. 140, 103615, 2021.
 
 https://www.sciencedirect.com/science/article/abs/pii/S030193222100063X?via%3Dihub
