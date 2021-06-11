@@ -9,7 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S03019322210006
 # (2021) An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
 Chia-Wei Kuo and Mario F. Trujillo, "An analysis of the performance enhancement with adaptive mesh refinement for spray problems", <i>International Journal of Multiphase Flow</i>. Vol. 140, 103615, 2021.
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S030193222100063X?via%3Dihub)
+[https://www.sciencedirect.com/science/article/abs/pii/S030193222100063X?via%3Dihub]
 
 Adaptive mesh refinement (AMR) provides an attractive means of significantly reducing computational costs while simultaneously maintaining a high degree of fidelity in regions of the domain requiring it. In the present work, an analysis of the performance of AMR supported by simulations is undertaken for liquid injection and spray formation problems. These problems are particularly challenging from a com- putational cost perspective since the associated interfacial area typically grows by orders of magnitude, leading to similar growth in the number of highly refined cells. While this increase in cell numbers directly contributes to a declining performance for AMR, a second less obvious factor is the decaying trend for the cell-based speedup....
 
