@@ -70,3 +70,17 @@ For various applications of solar thermal energy, the compound parabolic collect
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/CPC-1.png' width="45%">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/CPC-2.png' width="100%">
 </p>
+
+
+# (2014) Distribution of solar diffuse fraction in Taiwan
+Chia-Wei Kuo, Wen-Chey Chang, and Keh-Chin Chan, "Distribution of solar diffuse fraction in Taiwan", <i> Energy Procedia</i>. Vol. 57, pg. 1120-1129, 2014.
+
+[Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/files/2014-CWK-Energy-Procedia.pdf)
+
+----
+A simple polynomial model of the sky clearness index as predictor was proposed in this paper, for estimating the hourly solar diffuse fractions in Taiwan. The error analysis was performed through two statistical indicators, the mean bias error and the root-mean-square error. The out of database validation was also made to confirm the model generality. Next, regressions between monthly averaged conditions and geographical parameters of places (latitude, longitude, and elevation above sea level) were discussed, using the model's estimates and the updated data sets of typical solar radiation year. Based on the results, diffuse fraction maps for two observation periods were presented in 1-km resolution via an aid of linear interpolation.
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Diffuse-Map.png' width="85%">
+</p>
+
