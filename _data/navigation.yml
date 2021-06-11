@@ -4,10 +4,10 @@ main:
     url: /publications/
     
   - title: "Projects"
-    url: /projects/
+    url: /Projects/
     
-  - title: "test"
-    url: /test/ 
+#  - title: "test"
+#    url: /test/ 
     
 #  - title: "Conference Proceeding"
 #    url: /publications/
@@ -18,8 +18,8 @@ main:
 #  - title: "Conference Proceeding"
 #    url: /teaching/  
     
-  - title: "Projects"
-    url: /talks/   
+#  - title: "Projects"
+#    url: /talks/   
 
 #   - title: "Miscellaneous"
    
