@@ -1,9 +1,6 @@
 ---
 permalink: /Projects/
 title: "Projects"
-gallery:
-  - url: images/point_source.png
-    image_path: images/point_source.png
 ---
 
 
@@ -15,16 +12,9 @@ gallery:
 An analytical expression for a 2D inhomogeneous transient diffusion problem and a linear advection-diffusion problem can be obtained using Green’s function. Based on the homogeneous Dirichlet boundary conditions, the general expression for the Green’s function including the source terms in 2D Cartesian coordinate is derived. The reduction of a 2D problem into a 1D problem using the multiplicative property of the Green’s function is discussed. Examples involving a point source (using delta function) and a constant source throughout the entire field are solved using the Green’s function. The results are verified by comparing with the numerical solutions. The idea of using Green’s function in solving diffusion equation is applied to recognize the four different structures naturally existing in two-phase flow simulations. An illustrative example is solved to give an idea of the implementation of the Green’s function solution.
 
 
-
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-
-Point-source solutionee: 
-abcd
-<img src='./images/point_source.png'>
-## ![](./images/point_source.png)
+Solution to point-source problems: 
+<img src='/images/point_source.png'>
+<img src='/images/point_source.png'>
+<img src='/images/image_point_source.png'>
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
