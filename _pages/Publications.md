@@ -40,6 +40,6 @@ Chia-Wei Kuo and Keh-Chin Chang, "In-situ measurements of solar diffuse fraction
 Information on diffuse fraction is vital for solar energy applications using concentrating techniques such as concentrating photovoltaic and concentrating solar power. To provide this information for Taiwan, in situ measurements of solar diffuse fraction have been conducted at the Kuei-Jen campus of the National Cheng Kung University, Tainan since 2011. Calculations of the daily, monthly, and annual average diffuse fractions were made with five various sunshine durations centered at the solar noon in the years of 2011 and 2012. It was found that the mean value of annual diffuse fractions of these two years counting from sunrise to sunset is 0.543, while this value is reduced, to a small extent (<6%), with use of shorter duration in the calculation. A more confident information of diffuse fraction in Taiwan remains to be made through use of a database of a typical meteorological year, which is as yet unavailable.
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-1.png' width="80%">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-2.png' width="80%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-2.png' width="50%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-1.png' width="50%">
 </p>
