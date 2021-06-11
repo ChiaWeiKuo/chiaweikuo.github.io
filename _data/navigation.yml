@@ -10,9 +10,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/ 
     
- <nav class="navbar navbar-dark bg-dark">
-  <!-- Navbar content -->
-</nav>
+
 
 #  - title: "test"
 #    url: /test/ 
