@@ -1,7 +1,6 @@
 ---
 title: "(Journal) An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
 collection: publications
-permalink: /publication/2021-CWK-IJMF
 date: 2021-04-06
 venue: 'International Journal of Multiphase Flow'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S030193222100063X?via%3Dihub'
