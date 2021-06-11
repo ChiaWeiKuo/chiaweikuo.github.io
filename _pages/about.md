@@ -13,7 +13,7 @@ Welcome, I am Chia-Wei Kuo, a Ph.D. student majored in Mechanical Engineering (w
 Before pursuing the Ph.D. degree, I spent 3 years working in Taiwan as a full-time employee in industry and academia, respectively. In industry, I was working on the mechanical design of ventilization fan, while in academia I was concentrating on solar thermal research. 
 
 The research topics I am familar with are:
-- _two-phase flow simulations, numerical heat transfer, numerocal solver development, adaptive mesh refinement_
+- _two-phase flow simulations, numerical heat transfer, numerical solver development, adaptive mesh refinement_
 - _modeling of Lagrangian droplet breakup/vaporization_
 - _modeling of soler diffusion fraction_
 - _computer-aided engineering_
