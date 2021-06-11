@@ -25,9 +25,9 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
 Below is the simulation result of the breakup of a liquid droplet into gas. This simulation is performed using one of my models develeopd in my PhD research. I did this purely for entertainment, so the rigorous examination of the result is absent!
 
-
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/droplet_animated.gif' width="75%">
-
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/droplet_animated.gif' width="85%">
+</p>
 
 ---
 # 3. Parallelizing advection equation using OpenMP, MPI and CUDA
