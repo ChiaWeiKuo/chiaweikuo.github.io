@@ -1,6 +1,6 @@
 ---
 permalink: /Papers/
-# An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
+title: "An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
 Chia-Wei Kuo and Mario F. Trujillo, "An analysis of the performance enhancement with adaptive mesh refinement for spray problems," <i>International Journal of Multiphase Flow</i>. Vol. 140, 103615, 2021.'
 collection: publications
 date: 2021-04-06
