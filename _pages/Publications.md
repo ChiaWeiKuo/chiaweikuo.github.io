@@ -32,7 +32,7 @@ A sub-grid model accounting for the interaction of spray and sub-grid turbulence
 
 ---
 # (2015) In-situ measurements of solar diffuse fraction in southern Taiwan
-Chia-Wei Kuo and Keh-Chin Chang, "In-situ measurements of solar diffuse fraction in southern Taiwan", Journal of the Chinese Institute of Engineers</i>. Vol. 38(6), pg. 723-730, 2015.
+Chia-Wei Kuo and Keh-Chin Chang, "In-situ measurements of solar diffuse fraction in southern Taiwan", <i>Journal of the Chinese Institute of Engineers</i>. Vol. 38(6), pg. 723-730, 2015.
 
 [Access the paper](https://www.tandfonline.com/doi/abs/10.1080/02533839.2015.1016880?journalCode=tcie20)
 
