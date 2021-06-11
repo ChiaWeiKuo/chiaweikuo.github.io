@@ -1,6 +1,7 @@
 ---
 permalink: /Publications/
 title: "Publications"
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S030193222100063X?via%3Dihub'
 ---
 
 
