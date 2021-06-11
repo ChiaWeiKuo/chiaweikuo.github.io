@@ -13,10 +13,10 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
 
 Solution to point-source problems: 
-<img src='https://github.com/phxiranter/chiaweikuo.github.io/blob/master/images/point_source.png'>
-<img src='https://github.com/phxiranter/chiaweikuo.github.io/blob/master/images/point_source.png'>
+<img src='/Projects/images/point_source.png'>
+<img src='/images/point_source.png'>
 <img src='/point_source.png'>
 
-ddd eee fff
+ddd
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
