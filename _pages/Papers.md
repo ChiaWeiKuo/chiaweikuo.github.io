@@ -1,4 +1,5 @@
 ---
+permalink: /Papers/
 title: "(Journal) An analysis of the performance enhancement with adaptive mesh refinement for spray problems"
 collection: publications
 date: 2021-04-06
