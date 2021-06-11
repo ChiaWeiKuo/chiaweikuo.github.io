@@ -58,7 +58,7 @@ Using the data for global and diffuse radiation in Tainan, Taiwan, for the years
 </p>
 
 
-# "(2014) The design and optical analysis of compound parabolic collector
+# (2014) The design and optical analysis of compound parabolic collector
 Chia-Wei Kuo, Pei-Shan Yen, Wen-Chey Chang, and Keh-Chin Chan, "The design and optical analysis of compound parabolic collector,"<i> Procedia Engineering</i>. Vol. 79, pg. 258-262, 2014.
 [Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/files/2014-CWK-Procedia-Engineer.pdf)
 
