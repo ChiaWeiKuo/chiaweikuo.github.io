@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Papers"
+  - title: "Publications"
     url: /Papers/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
     
   - title: "Projects"
     url: /Projects/
