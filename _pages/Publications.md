@@ -14,6 +14,6 @@ Adaptive mesh refinement (AMR) provides an attractive means of significantly red
 
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/AMR_1.png' width="75%">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/AMR_2.png' width="75%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/AMR_2.png' width="50%">
 </p>
 
