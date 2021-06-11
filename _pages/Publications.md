@@ -36,10 +36,23 @@ Chia-Wei Kuo and Keh-Chin Chang, "In-situ measurements of solar diffuse fraction
 
 [Access the paper](https://www.tandfonline.com/doi/abs/10.1080/02533839.2015.1016880?journalCode=tcie20)
 
-
 Information on diffuse fraction is vital for solar energy applications using concentrating techniques such as concentrating photovoltaic and concentrating solar power. To provide this information for Taiwan, in situ measurements of solar diffuse fraction have been conducted at the Kuei-Jen campus of the National Cheng Kung University, Tainan since 2011. Calculations of the daily, monthly, and annual average diffuse fractions were made with five various sunshine durations centered at the solar noon in the years of 2011 and 2012. It was found that the mean value of annual diffuse fractions of these two years counting from sunrise to sunset is 0.543, while this value is reduced, to a small extent (<6%), with use of shorter duration in the calculation. A more confident information of diffuse fraction in Taiwan remains to be made through use of a database of a typical meteorological year, which is as yet unavailable.
 
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-2.png' width="50%">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-1.png' width="50%">
+</p>
+
+
+---
+# (2014) Modeling the hourly solar diffuse fraction in Taiwan
+Chia-Wei Kuo, Wen-Chey Chang, and Keh-Chin Chan, "Modeling the hourly solar diffuse fraction in Taiwan", <i> Renewable Energy</i>, Vol. 66, pg. 56-61, 2014.
+
+[Access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0960148113006605)
+
+Using the data for global and diffuse radiation in Tainan, Taiwan, for the years of 2011 and 2012, respectively, four correlation models with five predictors: the hourly clearness index (kt), solar altitude, apparent solar time, daily clearness index and a measure of persistence of global radiation level, are constructed to relate the hourly diffuse fraction on a horizontal surface (d) to the clearness index. Two models use a single logistic equation for all kt values, Eqs. (6), (7), and the other two models use a set of piece-wise linear equations for four kt intervals, Eqs. (8), (9). The proposed models are compared respectively with the fourteen models available in the literature, in terms of the four statistical indicators: the mean bias error, the root-mean-square error, the t-statistic and the Bayesian Information Criterion, using the out-of-sample dataset for Tainan, Taiwan. It is concluded from the analysis that the proposed piece-wise linear models perform well in predicting the diffuse fraction, while the performances of the proposed logistic models are more case-dependent. Among those fourteen models considered in this study, the models developed by Erbs et al., Chandrasekaran and Kumar, and Boland et al. have competitive performances as the proposed piece-wise linear models do, when applying to the prediction of diffuse fraction in Tainan, Taiwan.
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Renewable-1.png' width="75%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Renewable-2.png' width="75%">
 </p>
