@@ -16,7 +16,9 @@ Solution to point-source problems:
 <img src='/Projects/images/point_source.png'>
 <img src='/images/point_source.png'>
 <img src='/point_source.png'>
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/point_source.png'>
 
 ddd
+     fff
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
