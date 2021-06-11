@@ -23,7 +23,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 Point-source solutionee: 
-1<br/><img src='/images/point_source.png'>
+<img src='/images/point_source.png'>
 ## ![](/images/point_source.png)
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
