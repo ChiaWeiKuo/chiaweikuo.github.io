@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 ------
-Hi, I am Chia-Wei Kuo, a PhD student in mechanical engineering department at University of Wisconsin - Madison. I received my B.S. from aerospace engineering at National Cheng Kung University, and M.S. from mechanical engineering at National Taiwan University. 
+Welcome, I am Chia-Wei Kuo, a Ph.D. student majored in Mechanical Engineering (with minored in Math) at University of Wisconsin - Madison, and is the member of Phi Kappa Phi Honor Society. My Ph.D. research focuses on developing a new two-phase flow C++ solver for performing high-fidelity spray imulations. I am the member of Phi Kappa Phi at University of Wisconsin - Madison
 
-I had 3-year full-time working experiences at mechanical product designs and solar thermal research. I am the member of Phi Kappa Phi at University of Wisconsin - Madison, and the member of Phi Tau Phi at National Cheng Kung University. 
+Before pursuing the Ph.D. degree, I spent 3 years working in Taiwan as a full-time employee in industry and academia, respectively. In industry, I was working on the mechanical design of ventilization fan, while in academia I was concentrating on solar thermal research. 
 
-I am specialized in [computational fluid dynamics], [numerical heat transfer], [computer-aided engineering], [two-phase flow simulation], [numerocal solver development], [modeling of Lagrangian droplet breakup/vaporization], [adaptive mesh refinement], [soler thermal energy]. 
+The research topics I am familar with are:
+- computational fluid dynamics, numerical heat transfer, two-phase flow simulations, numerocal solver development, adaptive mesh refinement 
+- modeling of Lagrangian droplet breakup/vaporization
+- soler thermal energy
+- computer-aided engineering
 
-I have used [ANSYS Fluent], [ANSYS CFX], [OpenFOAM], [TRNSYS], [AutoCAD], [SolidWorks], [Pro/E] and so on.
-
-I used [C++] and [MATLAB] as the two primary programming languages.  
+The software and/or programming laguages I haved used are:
+- OpenFOAM
+- ANSYS Fluent, ANSYS CFX
+- Pointwise, ICEMCFD 
+- AutoCAD, SolidWorks, Pro/E
+- C++, MATLAB, C, FORTRAN
