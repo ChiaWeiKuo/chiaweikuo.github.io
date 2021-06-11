@@ -54,5 +54,5 @@ Using the data for global and diffuse radiation in Tainan, Taiwan, for the years
 
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Renewable-1.png' width="75%">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Renewable-2.png' width="75%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Renewable-2.png' width="85%">
 </p>
