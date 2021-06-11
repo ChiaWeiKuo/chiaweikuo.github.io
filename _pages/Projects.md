@@ -3,6 +3,14 @@ permalink: /Projects/
 title: "Projects"
 ---
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
 
-# BayesPostEst
+# Green's function solutions for 2D non-homogenous diffusion equations
+
+- [Course Project]
+-  
+Course Project, Department of Mathematics, University of Wisconsin - Madison
+date: 2018-12-14
+
+An analytical expression for a 2D inhomogeneous transient diffusion problem and a linear advection-diffusion problem can be obtained using Green’s function. Based on the homogeneous Dirichlet boundary conditions, the general expression for the Green’s function including the source terms in 2D Cartesian coordinate is derived. The reduction of a 2D problem into a 1D problem using the multiplicative property of the Green’s function is discussed. Examples involving a point source (using delta function) and a constant source throughout the entire field are solved using the Green’s function. The results are verified by comparing with the numerical solutions. The idea of using Green’s function in solving diffusion equation is applied to recognize the four different structures naturally existing in two-phase flow simulations. An illustrative example is solved to give an idea of the implementation of the Green’s function solution.
+
+[Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
