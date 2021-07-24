@@ -24,5 +24,5 @@ Below shows the time trace of the secondary breakup of a liquid droplet. This si
 Here is the simulation result of pure advection (i.e. the momentum equation is not numerically solved). Yellow region is liquid, and the black lines are the computational grid. 
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/pure_advection.gif' width="85%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/rayleigh_breakup.gif' width="85%">
 </p>
