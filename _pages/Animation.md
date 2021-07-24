@@ -35,3 +35,13 @@ The temporal evoluation of Rayleigh breakup of a liquid column due to Rayleigh-T
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/rayleigh_breakup_hd.gif' width="50%">
 </p>
 
+
+# 4. Pure advection
+- Date: 2017-11-11
+
+The temporal evoluation of Rayleigh breakup of a liquid column due to Rayleigh-Taylor instability is shown below. Yellow region is liquid, and the black lines are the computational grid. 
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/pure-advection.gif' width="50%">
+</p>
+
