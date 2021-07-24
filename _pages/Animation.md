@@ -1,3 +1,8 @@
+---
+permalink: /Animation/
+title: "Animation"
+---
+
 # 1. Simulating the breakup of a liquid droplet into gas
 - This is my self-practice project. 
 - Date: 2018-07-11
