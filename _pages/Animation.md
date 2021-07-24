@@ -7,7 +7,7 @@ This section includes the two-phase flow simulation animations I made during my 
 
 
 # 1. Atomization of high-speed liquid jet
-- Date: 2018-07-11
+- Date: 2021-04-14
 
 The atomization of a liquid jet injected from an  engineering nozzle is shown below. The light blue is liquid. The ambient environemt is high-pressure air. 
 
