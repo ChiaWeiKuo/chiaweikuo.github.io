@@ -1,6 +1,6 @@
 ---
-permalink: /Projects/
-title: "Projects"
+permalink: /Animation/
+title: "Animation"
 ---
 
 
