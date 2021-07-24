@@ -12,7 +12,7 @@ Welcome, I am Chia-Wei Kuo, a Ph.D. student majoring in Mechanical Engineering (
 
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/me.001.jpeg' width="40%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/me_2.jpeg' width="40%">
 </p>
 
 
