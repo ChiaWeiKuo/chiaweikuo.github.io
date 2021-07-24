@@ -1,6 +1,6 @@
 ---
 permalink: /Animation/
-title: "Animation"
+title: "Gallery"
 ---
 
 This page shows the images/animations of the two-phase flow simulations I made during my PhD studies. 
