@@ -3,7 +3,7 @@ permalink: /Animation/
 title: "Animation"
 ---
 
-This section includes the two-phase flow simulation animations I made during my PhD studies. 
+This page shows the images/animations of the two-phase flow simulations I made during my PhD studies. 
 
 
 # 1. Atomization of high-speed liquid jet
