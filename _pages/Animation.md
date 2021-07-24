@@ -17,12 +17,12 @@ Below shows the time trace of the secondary breakup of a liquid droplet. This si
 
 
 
-# 2. Stanging wave motion
+# 2. Pure advection
 - This is part of my PhD work
 - Date: 2017-11-11
 
-Here is the simulation result of standing wave motion due to surface tension. Blue region is air, and red region is liquid, and the black lines are the mesh. 
+Here is the simulation result of pure advection (i.e. the momentum equation is not numerically solved). Yellow region is liquid, and the black lines are the computational grid. 
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/standing_wave.gif' width="85%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/pure_advection.gif' width="85%">
 </p>
