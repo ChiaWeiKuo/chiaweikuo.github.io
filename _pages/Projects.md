@@ -18,19 +18,9 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
 
----
-# 2. Simulating the breakup of a liquid droplet into gas
-- This is my self-practice project. 
-- Date: 2018-07-11
-
-Below is the simulation result of the breakup of a liquid droplet into gas. This simulation is performed using one of my models develeopd in my PhD research. I did this purely for entertainment, so the rigorous examination of the result is absent!
-
-<p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/droplet_animated.gif' width="85%">
-</p>
 
 ---
-# 3. Parallelizing advection equation using OpenMP, MPI and CUDA
+# 2. Parallelizing advection equation using OpenMP, MPI and CUDA
 - PhD-level High-Performance Computing Course Project
 - Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: 2017-12-21
