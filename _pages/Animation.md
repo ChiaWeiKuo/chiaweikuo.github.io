@@ -5,7 +5,7 @@ title: "Animation"
 
 This section includes the two-phase flow simulation animations I made during my PhD studies. 
 
-# 1. Simulating the breakup of a liquid droplet into gas
+# 1. Secondary breakup of a liquid droplet
 - This is my self-practice project. 
 - Date: 2018-07-11
 
