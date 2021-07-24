@@ -21,7 +21,7 @@ Below shows the time trace of the secondary breakup of a liquid droplet. This si
 - This is part of my PhD work
 - Date: 2017-11-11
 
-Below is the simulation of standing wave motion due to surface tension. Blue region is air, and red region is liquid, and the black lines are the mesh. 
+Below is the simulation result of standing wave motion due to surface tension. Blue region is air, and red region is liquid, and the black lines are the mesh. 
 
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/standing_wave.gif' width="85%">
