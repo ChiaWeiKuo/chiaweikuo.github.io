@@ -5,7 +5,18 @@ title: "Animation"
 
 This section includes the two-phase flow simulation animations I made during my PhD studies. 
 
-# 1. Secondary breakup of a liquid droplet
+
+# 1. Atomization of high-speed liquid jet
+- Date: 2018-07-11
+
+The atomization of a liquid jet injected from an  engineering nozzle is shown below. The light blue is liquid. The ambient environemt is high-pressure air. 
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/animated_spray.gif' width="85%">
+</p>
+
+
+# 2. Secondary breakup of a liquid droplet
 - Date: 2018-07-11
 
 Below shows the time trace of the secondary breakup of a liquid droplet. This simulation is performed using one of my models develeopd in my PhD research. I did this purely for entertainment, so the rigorous examination of the result is absent!
@@ -15,8 +26,7 @@ Below shows the time trace of the secondary breakup of a liquid droplet. This si
 </p>
 
 
-
-# 2. Rayleigh breakup
+# 3. Rayleigh breakup
 - Date: 2017-11-11
 
 The temporal evoluation of Rayleigh breakup of a liquid column due to Rayleigh-Taylor instability is shown below. Yellow region is liquid, and the black lines are the computational grid. 
