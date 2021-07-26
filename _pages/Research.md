@@ -1,9 +1,8 @@
 ---
 permalink: /Research/
-title: "Research"
 ---
 
-My research falls into five areas.
+My research falls into five areas, as follows.
 
 # 1. Computational Fluid Dynamics
 - _Developing a new two-phase compressible flow C++ solver for atomization simulations_
