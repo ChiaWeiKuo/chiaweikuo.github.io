@@ -10,17 +10,11 @@ redirect_from:
 ------
 Welcome! I am Chia-Wei Kuo, a Ph.D. student majoring in Mechanical Engineering (with a minor in Math) at [University of Wisconsin - Madison](https://www.wisc.edu/), and [the member of Phi Kappa Phi ](https://phikappaphi.advising.wisc.edu/) over there. My Ph.D. research focuses on developing a new two-phase flow C++ solver for performing high-fidelity spray simulations. 
 
+Before pursuing the Ph.D. degree, I spent three years working in Taiwan as a full-time employee in industry and academia. In industry, I was working on the mechanical design of ventilation fans, while in academia, I was concentrating on solar thermal research. 
+
+My research has been published in _International Journal of Multiphase Flow_, _International Journal of Engine Research_, _Renewable Energy_, _Journal of the Chinese Institute of Engineers_, _Procedia Engineering_, and _Energy Procedia_.
+
 
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/me_2.jpeg' width="50%">
 </p>
-
-
-Before pursuing the Ph.D. degree, I spent three years working in Taiwan as a full-time employee in industry and academia. In industry, I was working on the mechanical design of ventilation fan, while in academia, I was concentrating on solar thermal research. 
-
-The research topics I am familiar with are:
-- _two-phase flow simulations, numerical heat transfer, numerical solver development, adaptive mesh refinement_
-- _modeling of Lagrangian droplet breakup/vaporization_
-- _modeling of soler diffusion fraction_
-- _computer-aided engineering_
-
