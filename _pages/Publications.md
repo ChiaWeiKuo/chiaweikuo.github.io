@@ -1,8 +1,8 @@
 ---
 permalink: /Publications/
-title: "Publications"
 ---
 
+The journal papers I have published are shown below.  
 
 # (2021) An analysis of the performance enhancement with adaptive mesh refinement for spray problems
 Chia-Wei Kuo and Mario F. Trujillo, "An analysis of the performance enhancement with adaptive mesh refinement for spray problems", <i>International Journal of Multiphase Flow</i>. Vol. 140, 103615, 2021.
