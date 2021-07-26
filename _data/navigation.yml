@@ -3,14 +3,21 @@ main:
 
   - title: "Publications"
     url: /Publications/
-    
-  - title: "Projects"
+
+  - title: "Research"
+    url: /Research/ 
+
+  - title: "Course Projects"
     url: /Projects/
     
   - title: "Gallery"
     url: /Animation/ 
     
-
+  - title: "Software"
+    url: /Software/   
+    
+  - title: "CV"
+    url: /cv/   
 
 #  - title: "test"
 #    url: /test/ 
