@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-#  name             : "Your Sidebar Name"
+  name             : "Chia-Wei Kuo"
   avatar           : "12343157＿這張.jpg"
-# bio              : "Me at USS Midway Museum (San Diego, CA)"
+  bio              : "PhD Dissertator"
   location         : "Madison, WI"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=z2sEfjsAAAAJ&hl=en"
-  email            :  phxiranter@gmail.com
+  email            :  "phxiranter@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Chia_Wei_Kuo3"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chiaweikuo-uwm/"
+#  linkedin         : "https://www.linkedin.com/in/chiaweikuo-uwm/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
