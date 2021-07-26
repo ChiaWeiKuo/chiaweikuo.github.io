@@ -7,7 +7,7 @@ My research falls into five areas, as follows.
 # 1. Computational Fluid Dynamics
 - _Developing a new two-phase compressible flow C++ solver for atomization simulations_
 - _High-fidelity spray simulations under engineering conditions_
-- _Performance evaluation of the adaptive mesh refinement solver InterDyMFOAM_
+- _Performance evaluation of the adaptive mesh refinement solver interDyMFoam_
 - _Downwash flow analysis of unmanned aerial vehicle_
 - _Verification of Lagrangain equation of motion under low-Weber number conditions_
 
