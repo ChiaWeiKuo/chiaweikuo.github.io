@@ -14,7 +14,7 @@ Below summarizes the programming languages and software I have used.
 # Meshing 
 - _Pointwise, ICEMCFD_ 
 
-# Renewable Energyy 
+# Renewable Energy 
 - _TRNSYS_
 
 # Engineering Drawing 
