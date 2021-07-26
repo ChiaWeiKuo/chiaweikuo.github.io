@@ -1,8 +1,8 @@
 ---
 permalink: /Projects/
-title: "Projects"
 ---
 
+Here are the course projects I have undertaken during my PhD studies.
 
 # 1. Green's function solutions for 2D non-homogenous diffusion equations
 - PhD-level Math Course Project
