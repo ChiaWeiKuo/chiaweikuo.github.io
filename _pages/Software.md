@@ -5,7 +5,7 @@ permalink: /Software/
 Below summarizes the programming languages and software I have used.
 
 # Programming 
-- C++, MATLAB, C, FORTRAN, JAVA
+- C++, MATLAB, C, FORTRAN
 
 # Computational Fluid Dynamics
 - _OpenFOAM_
