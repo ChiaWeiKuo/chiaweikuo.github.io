@@ -10,8 +10,8 @@ main:
   - title: "Gallery"
     url: /Animation/ 
 
-  - title: "Course Projects"
-    url: /Projects/
+#  - title: "Course Projects"
+#    url: /Projects/
     
   - title: "Software"
     url: /Software/   
