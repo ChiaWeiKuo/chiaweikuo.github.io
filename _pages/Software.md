@@ -16,7 +16,7 @@ Below summarizes the programming languages and software I have used.
 - _Pointwise, ICEMCFD_ 
 
 # 3. Renewable Energyy 
-- _TRNSYS
+- _TRNSYS_
 
 # 4. Engineering Drawing 
 - _AutoCAD, SolidWorks, Pro/E_
