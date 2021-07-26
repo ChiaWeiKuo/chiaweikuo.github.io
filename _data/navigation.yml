@@ -6,12 +6,12 @@ main:
 
   - title: "Research"
     url: /Research/ 
+  
+  - title: "Gallery"
+    url: /Animation/ 
 
   - title: "Course Projects"
     url: /Projects/
-    
-  - title: "Gallery"
-    url: /Animation/ 
     
   - title: "Software"
     url: /Software/   
