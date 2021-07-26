@@ -1,6 +1,5 @@
 ---
 permalink: /Software/
-title: "Software"
 ---
 
 Below summarizes the programming languages and software I have used.
