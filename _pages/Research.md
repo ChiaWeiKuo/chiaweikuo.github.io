@@ -5,12 +5,12 @@ permalink: /Research/
 My research falls into five areas, as follows.
 
 # 1. Computational Fluid Dynamics
-- _Developing a new two-phase flow C++ solver for high-fidelity atomization simulations_
-- _Implementations of compressible pressure equation and energy equation into the new two-phase flow solver_
-- _Performing highly resolved spray simulations using realistic engineering nozzle configuration_
+- _Developing a new two-phase flow C++ solver for performing high-fidelity spray simulations_
+- _Developing new numerical algorithms for two-phase compressible pressure and energy calculations_
+- _Performing high-fidelity atomization simulations using realistic engineering nozzle configuration_
 - _Performance evaluation of the adaptive mesh refinement solver interDyMFoam_
 - _Downwash flow analysis of unmanned aerial vehicle_
-- _Verification of Lagrangain equation of motion under low-Weber number conditions_
+- _Verification of Lagrangian equation of motion under low-Weber number conditions_
 
 
 # 2. Modeling of Two-Phase Flows
@@ -19,7 +19,7 @@ My research falls into five areas, as follows.
 
 
 # 3. Heat Transfer
-- _Heat dissipation analysis of a totally-enclosed fan-cooled motor_
+- _Heat dissipation analysis of an industrial-scale totally-enclosed fan-cooled motor_
 - _Heat transfer analysis of an industrial oven_
 
 
@@ -30,7 +30,7 @@ My research falls into five areas, as follows.
 
 
 # 5. Mechanical Design
-- _Frame design of a totally-enclosed fan-cooled motor_
+- _Frame/Fin designs of a totally-enclosed fan-cooled motor_
 - _Desgin of a hyperbolic reflective shock tunnel_
 
 
