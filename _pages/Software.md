@@ -18,7 +18,7 @@ Below summarizes the programming languages and software I have used.
 - _TRNSYS_
 
 # Engineering Drawing 
-- _AutoCAD, SolidWorks, Pro/E_
+- _AutoCAD, SolidWorks, Pro/E, ANSYS Workbench_
 
 
 
