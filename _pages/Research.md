@@ -29,9 +29,9 @@ My research falls into five areas, as follows.
 
 
 # 5. Renewable Energy
-- _Modeling of soler diffusion fraction_
+- _Modeling of solar diffusion fraction_
 - _Design of a compound parabolic solar collector_
-- _Establishing a typical meteorological year database_
+- _Established a typical meteorological year database_
 
 
 
