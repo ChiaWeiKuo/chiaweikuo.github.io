@@ -7,20 +7,19 @@ Below summarizes the programming languages and software I have used.
 # Programming 
 - C++, MATLAB, C, FORTRAN
 
-# Computational Fluid Dynamics
+
+# Computational Fluid Dynamics (CFD)
 - _OpenFOAM_
 - _ANSYS Fluent, ANSYS CFX_
-
-# Meshing 
 - _Pointwise, ICEMCFD_ 
 
-# Renewable Energy 
-- _TRNSYS_
 
-# Engineering Drawing 
+# Computer-aided Design (CAD) 
 - _AutoCAD, SolidWorks, Pro/E, ANSYS Workbench_
 
 
+# Renewable Energy 
+- _TRNSYS_
 
 
 
