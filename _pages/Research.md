@@ -18,7 +18,7 @@ My research falls into five areas, as follows.
 - _Modeling of Lagrangian droplet vaporization_
 
 
-# 3. Thermal Analysis
+# 3. Thermal/Heat Transfer Analysis
 - _Enhanced the heat transfer performance of a large-scale industrial motor_
 - _Optimization of heat transfer of an industrial oven_
 
