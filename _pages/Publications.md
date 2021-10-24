@@ -59,14 +59,14 @@ Information on diffuse fraction is vital for solar energy applications using con
 ---
 
 # (2015) Fin designs of TEFC motor heat dissipation enhancement
-Chia-Wei Kuo and Mei-Jiau Huang, "Fin designs of TEFC motor heat dissipation enhancement", The 22th National Computational Fluid Dynamics Conference, New Taipei City, Taiwan</i>. 2015.
+Chia-Wei Kuo and Mei-Jiau Huang, "Fin designs of TEFC motor heat dissipation enhancement", <i>The 22th National Computational Fluid Dynamics Conference, New Taipei City, Taiwan</i>. 2015.
 
 [Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/publications/2015-CFD.pdf)
 
 Literature on the study of fins for heat transfer enhancement mainly focused on the low speed airflow for small electronic devices. For heat removal from large devices such as TEFC motors, studies were limited. In this work, several fin designs based on the dimensions of the TECO TEFC motor were attempted and studied numerically in use of the commercial software ANSYS. The simulation system consists of flat-plate fins periodically mounted on the frame and a wind shield; Fig.1 shows one period of the system. Cold air of 298K at speed Uin = 20m/s is directed into the flow channels between fins to cool the hot area maintained at 333K of the frame, which has an area of L X P . The remaining part of the frame is insulated. The RNG k-epsilon model was used, in conjunction with the standard wall function, to capture the turbulent effect. A 3D hybrid mesh composed of structured as well as unstructured grids was employed for spatial discretization. No-slip boundary conditions were imposed at all solid walls.
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2015-CFD-image.png' width="85%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2015-CFD-image.png' width="90%">
 </p>
 
 
