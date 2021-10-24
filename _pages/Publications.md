@@ -74,6 +74,7 @@ Using the data for global and diffuse radiation in Tainan, Taiwan, for the years
 &nbsp;
 \
 &nbsp;
+---
 
 
 # (2014) The design and optical analysis of compound parabolic collector
@@ -93,7 +94,7 @@ For various applications of solar thermal energy, the compound parabolic collect
 &nbsp;
 \
 &nbsp;
-
+---
 
 # (2014) Distribution of solar diffuse fraction in Taiwan
 Chia-Wei Kuo, Wen-Chey Chang, and Keh-Chin Chan, "Distribution of solar diffuse fraction in Taiwan", <i> Energy Procedia</i>. Vol. 57, pg. 1120-1129, 2014.
@@ -106,6 +107,12 @@ A simple polynomial model of the sky clearness index as predictor was proposed i
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Diffuse-Map.png' width="85%">
 </p>
 
+\
+&nbsp;
+\
+&nbsp;
+
+---
 
 
 # (2013) Modeling of heat transfer in an industrial electric oven
