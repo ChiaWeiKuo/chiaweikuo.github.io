@@ -4,7 +4,21 @@ permalink: /Projects/
 
 Here are the reported I have wrote.
 
+# 1. Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
+- Research Report
+- Department of Mechanical Engineering, National Taiwan University
+- Date: Jul, 2016
 
+New frame structures of an industrial totally-enclosed-fan-cooled (TEFC) motor were designed and numerically explored for the sake of heat dissipation enhancement. Several attempts were made in removing hot spots. First of all, the few large cooling ducts which are usually embedded within the frame for forming a closed internal flow are replaced by numerous small cooling ducts, uniformly distributed along the azimuthal direction. The walls between neighboring cooling ducts act like inner fins which help heat transfer from the interior of the motor to the outer surface of the frame; optimally spaced outer fins pass heat to the ambient air next. Secondly, a flat plate is added to cover the outer fins in the bottom of the motor for suppressing the flow leakage and therefore enhancing the heat dissipation there. Two new frames are so designed and simulations confirm that both successfully achieve the designing goals: a maximum frame temperature below 130 C and a maximum azimuthal temperature difference below 10 C.
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2016-CFD-1.png' width="40%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2016-CFD-3.jpeg' width="40%">
+</p>
+
+[Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/2016-Report.pdf)
+ 
+---
 
 # 2. Green's function solutions for 2D non-homogenous diffusion equations
 - PhD-level Math Course Project
