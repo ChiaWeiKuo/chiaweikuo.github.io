@@ -2,7 +2,7 @@
 permalink: /Projects/
 ---
 
-Here are the reported I have wrote.
+Here are the reports I have wrote.
 
 # 1. Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
 - Research Report
