@@ -20,7 +20,7 @@ My research falls into five areas, as follows.
 
 # 3. Thermal/Heat Transfer Analysis
 - _Enhanced the heat transfer performance of a large-scale industrial motor_
-- _Optimization of heat transfer of an industrial oven_
+- _Optimized the thermal dissipation performance of an industrial oven_
 
 
 # 4. Computer-aided Design (CAD) 
