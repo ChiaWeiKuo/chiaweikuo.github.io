@@ -18,6 +18,7 @@ New frame structures of an industrial totally-enclosed-fan-cooled (TEFC) motor w
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/2016-Report.pdf)
  
+&nbsp;
 ---
 
 # 2. Green's function solutions for 2D non-homogenous diffusion equations
@@ -36,8 +37,8 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
   
 &nbsp;
-&nbsp;
 ---
+
 # 3. Parallelizing advection equation using OpenMP, MPI and CUDA
 - PhD-level High-Performance Computing Course Project
 - Department of Mechanical Engineering, University of Wisconsin - Madison
