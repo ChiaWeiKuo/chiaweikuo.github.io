@@ -19,6 +19,7 @@ New frame structures of an industrial totally-enclosed-fan-cooled (TEFC) motor w
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/2016-Report.pdf)
  
 &nbsp;
+&nbsp;
 ---
 
 # 2. Green's function solutions for 2D non-homogenous diffusion equations
@@ -36,6 +37,7 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
 
   
+&nbsp;
 &nbsp;
 ---
 
