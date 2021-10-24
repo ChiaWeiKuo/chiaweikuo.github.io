@@ -2,7 +2,7 @@
 permalink: /Publications/
 ---
 
-The journal papers I have published are shown below.  
+The journal/conference papers I have published are shown below.  
 
 # (2021) An analysis of the performance enhancement with adaptive mesh refinement for spray problems
 Chia-Wei Kuo and Mario F. Trujillo, "An analysis of the performance enhancement with adaptive mesh refinement for spray problems", <i>International Journal of Multiphase Flow</i>. Vol. 140, 103615, 2021.
@@ -59,7 +59,7 @@ Information on diffuse fraction is vital for solar energy applications using con
 
 ---
 # (2014) Modeling the hourly solar diffuse fraction in Taiwan
-Chia-Wei Kuo, Wen-Chey Chang, and Keh-Chin Chan, "Modeling the hourly solar diffuse fraction in Taiwan", <i> Renewable Energy</i>. Vol. 66, pg. 56-61, 2014.
+Chia-Wei Kuo, Wen-Chey Chang, and Keh-Chin Chang, "Modeling the hourly solar diffuse fraction in Taiwan", <i> Renewable Energy</i>. Vol. 66, pg. 56-61, 2014.
 
 [Access the paper](https://www.sciencedirect.com/science/article/abs/pii/S0960148113006605)
 
@@ -77,7 +77,7 @@ Using the data for global and diffuse radiation in Tainan, Taiwan, for the years
 
 
 # (2014) The design and optical analysis of compound parabolic collector
-Chia-Wei Kuo, Pei-Shan Yen, Wen-Chey Chang, and Keh-Chin Chan, "The design and optical analysis of compound parabolic collector,"<i> Procedia Engineering</i>. Vol. 79, pg. 258-262, 2014.
+Chia-Wei Kuo, Pei-Shan Yen, Wen-Chey Chang, and Keh-Chin Chang, "The design and optical analysis of compound parabolic collector,"<i> Procedia Engineering</i>. Vol. 79, pg. 258-262, 2014.
 
 [Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/files/2014-CWK-Procedia-Engineer.pdf)
 
@@ -106,3 +106,15 @@ A simple polynomial model of the sky clearness index as predictor was proposed i
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Diffuse-Map.png' width="85%">
 </p>
 
+
+
+# (2013) Modeling of heat transfer in an industrial electric oven
+Chia-Wei Kuo, Yu-Cheng Liu, and Wen-Chey Chang, "Modeling of heat transfer in an industrial electric oven", <i> The 20th National Computational Fluid Dynamics Conference, Nantou, Taiwan</i>. 2013.
+
+[Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/files/2013-CFD.pdf)
+
+The thermal dissipation performance of an industrial electric oven is studied. It is shown from the experimental measurements that the temperature variations inside the oven can reach 20 K, which is determinantal to the thermal collection efficiency of the oven. We employ ANSYS Fluent to establish a 3D computational fluid dynamics (CFD) model to cope with the problem. The simulation results show that the poor thermal insulation at oven door slots is the main reason behind this uneven temperature distribution problem. A modified oven design is then proposed using the CFD model. Compared with the original design, a more uniform temperature distribution could be reached using the modified design.
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/oven_design.png' width="50%">
+</p>
