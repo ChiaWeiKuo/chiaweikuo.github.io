@@ -16,12 +16,12 @@ Adaptive mesh refinement (AMR) provides an attractive means of significantly red
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/AMR_2.png' width="50%">
 </p>
 
-\
+
 &nbsp;
-\
 &nbsp;
 
 ---
+
 # (2019)  Evaluation and validation of large-eddy simulation sub-grid spray dispersion models using high-fidelity volume-of-fluid simulation data and engine combustion network experimental data
 Chi-Wei Tsang, Chia-Wei Kuo, Mario Trujillo, Christopher Rutland, "Evaluation and validation of large-eddy simulation sub-grid spray dispersion models using high-fidelity volume-of-fluid simulation data and engine combustion network experimental data," <i>International Journal of Engine Research</i>. Vol. 20(6), pg. 583-605, 2019.
 
@@ -34,12 +34,12 @@ A sub-grid model accounting for the interaction of spray and sub-grid turbulence
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/IJER-2.png' width="80%">
 </p>
 
-\
+
 &nbsp;
-\
 &nbsp;
 
 ---
+
 # (2015) In-situ measurements of solar diffuse fraction in southern Taiwan
 Chia-Wei Kuo and Keh-Chin Chang, "In-situ measurements of solar diffuse fraction in southern Taiwan", <i>Journal of the Chinese Institute of Engineers</i>. Vol. 38(6), pg. 723-730, 2015.
 
@@ -52,13 +52,12 @@ Information on diffuse fraction is vital for solar energy applications using con
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/JCIE-1.png' width="50%">
 </p>
 
-\
-&nbsp;
-\
-&nbsp;
 
+&nbsp;
+&nbsp;
 
 ---
+
 # (2015) Fin designs of TEFC motor heat dissipation enhancement
 Chia-Wei Kuo and Mei-Jiau Huang, "Fin designs of TEFC motor heat dissipation enhancement", The 22th National Computational Fluid Dynamics Conference, New Taipei City, Taiwan</i>. 2015.
 
@@ -70,14 +69,13 @@ Literature on the study of fins for heat transfer enhancement mainly focused on 
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2015-CFD-image.png' width="85%">
 </p>
 
-\
-&nbsp;
-\
-&nbsp;
 
+&nbsp;
+&nbsp;
 
 
 ---
+
 # (2014) Modeling the hourly solar diffuse fraction in Taiwan
 Chia-Wei Kuo, Wen-Chey Chang, and Keh-Chin Chang, "Modeling the hourly solar diffuse fraction in Taiwan", <i> Renewable Energy</i>. Vol. 66, pg. 56-61, 2014.
 
@@ -90,10 +88,10 @@ Using the data for global and diffuse radiation in Tainan, Taiwan, for the years
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Renewable-2.png' width="100%">
 </p>
 
-\
+
 &nbsp;
-\
 &nbsp;
+
 ---
 
 
@@ -110,10 +108,10 @@ For various applications of solar thermal energy, the compound parabolic collect
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/CPC-2.png' width="100%">
 </p>
 
-\
+
 &nbsp;
-\
 &nbsp;
+
 ---
 
 # (2014) Distribution of solar diffuse fraction in Taiwan
@@ -127,9 +125,8 @@ A simple polynomial model of the sky clearness index as predictor was proposed i
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/Diffuse-Map.png' width="85%">
 </p>
 
-\
+
 &nbsp;
-\
 &nbsp;
 
 ---
