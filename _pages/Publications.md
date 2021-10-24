@@ -123,5 +123,5 @@ Chia-Wei Kuo, Yu-Cheng Liu, and Wen-Chey Chang, "Modeling of heat transfer in an
 The thermal dissipation performance of an industrial electric oven is studied. It is shown from the experimental measurements that the temperature variations inside the oven can reach 20 K, which is determinantal to the thermal collection efficiency of the oven. We employ ANSYS Fluent to establish a 3D computational fluid dynamics (CFD) model to cope with the problem. The simulation results show that the poor thermal insulation at oven door slots is the main reason behind this uneven temperature distribution problem. A modified oven design is then proposed using the CFD model. Compared with the original design, a more uniform temperature distribution could be reached using the modified design.
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/oven_design.png' width="50%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/oven_design.png' width="60%">
 </p>
