@@ -10,15 +10,14 @@ Here are the reports/posters/patent I have wrote/presented.
 
 Description: A new design of motor frame with better heat dissipation performance
 
-
-[Download the patent document](https://phxiranter.github.io/chiaweikuo.github.io/files/2017-Patent.pdf)
-
-[Access the patent document online](https://twpat2.tipo.gov.tw/twpatc/twpatkm?00045EEA0003010100000000000203200000003E000000000^_B)
-
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2017-patent-1.png' width="50%">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2017-Patent-2.png' width="50%">
 </p>
+
+[Download the patent document](https://phxiranter.github.io/chiaweikuo.github.io/files/2017-Patent.pdf)
+
+[Access the patent document online](https://twpat2.tipo.gov.tw/twpatc/twpatkm?00045EEA0003010100000000000203200000003E000000000^_B)
 
 &nbsp;
 &nbsp;
