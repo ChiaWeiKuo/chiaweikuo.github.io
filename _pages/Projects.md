@@ -16,7 +16,19 @@ Here are the reports/posters I have wrote/presented.
 
 ---
 
-# 2. (Report) Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
+# 2. (Poster)  Fin designs of TEFC motor: heat dissipation enhancement
+- Venue: The Great Roots Forestry Spa Resort, Taiwan
+- Date: Aug, 2015
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2015-Poster.png' width="75%">
+</p>
+
+&nbsp;
+&nbsp;
+
+---
+
+# 3. (Report) Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
 - Research Report
 - Department of Mechanical Engineering, National Taiwan University
 - Date: Jul, 2016
@@ -35,7 +47,7 @@ New frame structures of an industrial totally-enclosed-fan-cooled (TEFC) motor w
 
 ---
 
-# 3.  (Report) Green's function solutions for 2D non-homogenous diffusion equations
+# 4.  (Report) Green's function solutions for 2D non-homogenous diffusion equations
 - PhD-level Math Course Project
 - Department of Mathematics, University of Wisconsin - Madison
 - Date: Dec, 2018
@@ -54,7 +66,7 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
 ---
 
-# 4.  (Report) Parallelizing advection equation using OpenMP, MPI and CUDA
+# 5.  (Report) Parallelizing advection equation using OpenMP, MPI and CUDA
 - PhD-level High-Performance Computing Course Project
 - Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: Dec, 2017
