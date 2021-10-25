@@ -25,7 +25,7 @@ Description: A new design of motor frame with better heat dissipation performanc
 ---
 
 
-# 2. (Poster) Analyzing the benefits of Adaptive Mesh Refinement in Highly-Resolved VoF Simulations of Atomization
+# 2. (Poster) Analyzing the benefits of adaptive mesh refinement in highly-resolved VoF simulations of atomization
 - Conference: 2019 Direct-injection Engine Research Consortium
 - Venue: Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: Jun, 2019
