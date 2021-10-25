@@ -6,7 +6,7 @@ Here are the reports/posters I have wrote/presented.
 
 # 1. (Poster) Analyzing the benefits of Adaptive Mesh Refinement in Highly-Resolved VoF Simulations of Atomization
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2019-Poster.png' width="85%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2019-Poster.png' width="90%">
 </p>
 
 &nbsp;
