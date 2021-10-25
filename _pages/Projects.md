@@ -5,6 +5,7 @@ permalink: /Projects/
 Here are the reports/posters I have wrote/presented.
 
 # 1. (Poster) Analyzing the benefits of Adaptive Mesh Refinement in Highly-Resolved VoF Simulations of Atomization
+- Conference: 2019 Direct-injection Engine Research Consortium
 - Venue: Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: Jun, 2019
 <p align="center">
@@ -17,6 +18,7 @@ Here are the reports/posters I have wrote/presented.
 ---
 
 # 2. (Poster)  Fin designs of TEFC motor: heat dissipation enhancement
+- Conference: The 22th Computational Fluid Dynamics Conference in Taiwan
 - Venue: The Great Roots Forestry Spa Resort, Taiwan
 - Date: Aug, 2015
 <p align="center">
