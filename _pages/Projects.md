@@ -2,9 +2,31 @@
 permalink: /Projects/
 ---
 
-Here are the reports/posters I have wrote/presented.
+Here are the reports/posters/patent I have wrote/presented.
 
-# 1. (Poster) Analyzing the benefits of Adaptive Mesh Refinement in Highly-Resolved VoF Simulations of Atomization
+# 1. (Patent) Motor frame with splitting type heat dissipation channel (in Chinese)
+- Patent ID: TWM537180, Taiwan Intellectual Property Office
+- Date: Feb, 2017
+
+Description: A new design of motor frame with better heat dissipation performance
+
+
+[Download the patent document](https://phxiranter.github.io/chiaweikuo.github.io/files/2017-Patent.pdf)
+
+[Access the patent document online](https://twpat2.tipo.gov.tw/twpatc/twpatkm?00045EEA0003010100000000000203200000003E000000000^_B)
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2017-patent-1.png' width="50%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2017-Patent-2.png' width="50%">
+</p>
+
+&nbsp;
+&nbsp;
+
+---
+
+
+# 2. (Poster) Analyzing the benefits of Adaptive Mesh Refinement in Highly-Resolved VoF Simulations of Atomization
 - Conference: 2019 Direct-injection Engine Research Consortium
 - Venue: Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: Jun, 2019
@@ -17,7 +39,7 @@ Here are the reports/posters I have wrote/presented.
 
 ---
 
-# 2. (Poster)  Fin designs of TEFC motor: heat dissipation enhancement
+# 3. (Poster)  Fin designs of TEFC motor: heat dissipation enhancement
 - Conference: The 22th Computational Fluid Dynamics Conference in Taiwan
 - Venue: The Great Roots Forestry Spa Resort, Taiwan
 - Date: Aug, 2015
@@ -30,7 +52,7 @@ Here are the reports/posters I have wrote/presented.
 
 ---
 
-# 3. (Report) Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
+# 4. (Report) Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
 - Research Report
 - Department of Mechanical Engineering, National Taiwan University
 - Date: Jul, 2016
@@ -49,7 +71,7 @@ New frame structures of an industrial totally-enclosed-fan-cooled (TEFC) motor w
 
 ---
 
-# 4.  (Report) Green's function solutions for 2D non-homogenous diffusion equations
+# 5.  (Report) Green's function solutions for 2D non-homogenous diffusion equations
 - PhD-level Math Course Project
 - Department of Mathematics, University of Wisconsin - Madison
 - Date: Dec, 2018
@@ -68,7 +90,7 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
 ---
 
-# 5.  (Report) Parallelizing advection equation using OpenMP, MPI and CUDA
+# 6.  (Report) Parallelizing advection equation using OpenMP, MPI and CUDA
 - PhD-level High-Performance Computing Course Project
 - Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: Dec, 2017
