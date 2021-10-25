@@ -4,10 +4,10 @@ main:
   - title: "Research"
     url: /Research/ 
     
-  - title: "Publications"
+  - title: "Publication"
     url: /Publications/ 
   
-  - title: "Reports/Posters"
+  - title: "Patent/Poster/Report"
     url: /Projects/
 
   - title: "Gallery"
