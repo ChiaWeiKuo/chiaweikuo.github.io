@@ -2,9 +2,19 @@
 permalink: /Projects/
 ---
 
-Here are the reports I have wrote.
+Here are the reports/posters I have wrote/presented.
 
-# 1. Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
+# 1. (Poster) Analyzing the benefits of Adaptive Mesh Refinement in Highly-Resolved VoF Simulations of Atomization
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2019-Poster.png' width="85%">
+</p>
+
+&nbsp;
+&nbsp;
+
+---
+
+# 2. (Report) Heat dissipation enhancement of an industrial totally-enclosed-fan-cooled motor through frame designs
 - Research Report
 - Department of Mechanical Engineering, National Taiwan University
 - Date: Jul, 2016
@@ -17,11 +27,13 @@ New frame structures of an industrial totally-enclosed-fan-cooled (TEFC) motor w
 </p>
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/2016-Report.pdf)
- 
+
 &nbsp;
+&nbsp;
+
 ---
 
-# 2. Green's function solutions for 2D non-homogenous diffusion equations
+# 3.  (Report) Green's function solutions for 2D non-homogenous diffusion equations
 - PhD-level Math Course Project
 - Department of Mathematics, University of Wisconsin - Madison
 - Date: Dec, 2018
@@ -35,11 +47,12 @@ An analytical expression for a 2D inhomogeneous transient diffusion problem and 
 
 [Download report here](https://phxiranter.github.io/chiaweikuo.github.io/files/math703_report.pdf)
 
-  
+&nbsp;  
 &nbsp;
+
 ---
 
-# 3. Parallelizing advection equation using OpenMP, MPI and CUDA
+# 4.  (Report) Parallelizing advection equation using OpenMP, MPI and CUDA
 - PhD-level High-Performance Computing Course Project
 - Department of Mechanical Engineering, University of Wisconsin - Madison
 - Date: Dec, 2017
