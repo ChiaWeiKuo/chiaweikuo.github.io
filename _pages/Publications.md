@@ -52,11 +52,30 @@ A sub-grid model accounting for the interaction of spray and sub-grid turbulence
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/IJER-2.png' width="80%">
 </p>
 
+&nbsp;
+&nbsp;
+
+---
+
+# (2018)  Benefits of AMR for Atomization Calculations
+Chia-Wei Kuo and Mario Trujillo, "Benefits of AMR for Atomization Calculations," <i>ICLASS 2018, 14th Triennial International Conference on Liquid Atomization and Spray Systems</i>. 2018.
+
+
+[Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/files/2018-CFD.pdf)
+
+Adaptive mesh refinement (AMR) has been introduced as an attractive means of significantly improving com- putational efficiency for a variety of two-phase flow problems. In the current study, the benefits of AMR are investigated for the case of liquid jet atomization. The evaluation consists of a systematic analysis of results from the interDymFoam (AMR octree) and interFoam (static octree) codes, both of which form part of the family of solvers distributed within the open source OpenFOAM C++ Toolbox. The two-phase flow treatment is based on an algebraic VoF methodology. As a preliminary set of exercises, cases for pure advection, stationary wave dynamics, and Rayleigh-Plateau breakup of a cylindrical liquid element are considered. The results from these exercises confirm the expected trend of higher numerical efficiency in AMR, while still retaining essen- tially the same level of accuracy as the fixed embedded mesh solutions. However, for the liquid jet atomization, the behavior is a bit more complicated. First, at lower levels of Weber number, we observe a similar trend as the preliminary exercises. At higher Weber numbers, due to a noticeable increase in interfacial area density, sub- stantial inhomogeneities are formed in the underlying grids yielding slower solutions of pressure Poisson equa- tion, thereby potentially offsetting the benefits of this approach. In fact, at much higher Weber numbers, for in- stance, those pertaining to Diesel injection, the results suggest that a fixed embedded mesh would provide better computational efficiency. However, this conclusion depends on the target lowest level of numerical resolution, Δxmin. The current work shows how the efficiency of AMR suffers from increasing interfacial area density, and how this can be alleviated via a decrease in Δxmin. Various test cases are presented to illustrate this effect..
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2018-CFD-figure.png' width="90%">
+</p>
+
 
 &nbsp;
 &nbsp;
 
 ---
+
+
 
 # (2015) In-situ measurements of solar diffuse fraction in southern Taiwan
 Chia-Wei Kuo and Keh-Chin Chang, "In-situ measurements of solar diffuse fraction in southern Taiwan", <i>Journal of the Chinese Institute of Engineers</i>. Vol. 38(6), pg. 723-730, 2015.
