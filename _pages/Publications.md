@@ -31,7 +31,7 @@ In Lagrangian-Eulerian spray simulations, the secondary breakup of the atomized 
 
 <p align="center">
 <img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2020-breakUp-1.png' width="45%">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2020-breakUp-1.png' width="45%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2020-breakUp-2.png' width="45%">
 </p>
 
 
