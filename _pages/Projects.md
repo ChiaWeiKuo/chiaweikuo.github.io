@@ -4,7 +4,7 @@ permalink: /Projects/
 
 Here are the reports/posters/patent I have wrote/presented.
 
-# 1. (Patent) Motor frame with splitting type heat dissipation channel (in Chinese)
+# 1. (Patent) Motor frame with splitting type heat dissipation channel
 - Patent ID: TWM537180, Taiwan Intellectual Property Office
 - Date: Feb, 2017
 
