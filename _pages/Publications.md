@@ -22,6 +22,24 @@ Adaptive mesh refinement (AMR) provides an attractive means of significantly red
 
 ---
 
+# (2020) A maximum-entropy-formalism for secondary droplet nreakup
+Chia-Wei Kuo and Mario F. Trujillo, "A maximum-entropy-formalism for secondary droplet nreakup", <i>ILASS-Americas Annual Conference on Liquid Atomization and Spray Systems</i>. 2020.
+
+[Access the paper](https://phxiranter.github.io/chiaweikuo.github.io/publications/2020-breakUp.pdf)
+
+In Lagrangian-Eulerian spray simulations, the secondary breakup of the atomized droplets is typically han- dled by an atomization model, such as the Kelvin-Helmholtz Rayleigh-Taylor model or the Taylor Analogy Breakup model . This problem is revisited in this paper by imposing a joint probability density function (JPDF) over the size and velocity spaces of the droplets and enforcing the conservation constraints of mass, momentum, and energy. Five different models are proposed and tested. In the first three models, the size distribution is given in the form of the Nukiyama-Tanasawa, diameter-dependent Rosin-Rammler, and mass-dependent Rosin-Rammler distri- butions. For droplet velocity, a Dirac delta function centered on the parent droplet is assumed. The results show poor agreement with the experimental measurements. The next two models are based on the Maximum Entropy Methodology (MEM), which is contingent upon maximizing the Shannon entropy of the JPDF. In the first MEM model, the MEM is only applied to the size distribution while the velocity distribution is assumed to be a Dirac delta function. In the second MEM model, the size and velocity distributions are assumed to be fully coupled. Only the second MEM model agrees with the experimental measurements over a wide range of Weber numbers. Also, the second MEM model confirms the expected trend of a reduction of droplet size as the degree of droplet breakup intensity increases.
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2020-breakUp-1.png' width="45%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/2020-breakUp-1.png' width="45%">
+</p>
+
+
+&nbsp;
+&nbsp;
+
+---
+
 # (2019)  Evaluation and validation of large-eddy simulation sub-grid spray dispersion models using high-fidelity volume-of-fluid simulation data and engine combustion network experimental data
 Chi-Wei Tsang, Chia-Wei Kuo, Mario Trujillo, Christopher Rutland, "Evaluation and validation of large-eddy simulation sub-grid spray dispersion models using high-fidelity volume-of-fluid simulation data and engine combustion network experimental data," <i>International Journal of Engine Research</i>. Vol. 20(6), pg. 583-605, 2019.
 
