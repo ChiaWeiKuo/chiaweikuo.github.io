@@ -10,7 +10,7 @@ Below is the certificate I have.
 
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/files/Coursera_tensorflow.png' width="85%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/files/Coursera_tensorflow.png' width="100%">
 </p>
 
 
