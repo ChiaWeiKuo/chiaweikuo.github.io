@@ -11,7 +11,7 @@ Below is the certificate I have.
 Description: A new design of motor frame with better heat dissipation performance
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/files/Coursera_tensorflow.png' width="75%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/files/Coursera_tensorflow.png' width="85%">
 </p>
 
 
