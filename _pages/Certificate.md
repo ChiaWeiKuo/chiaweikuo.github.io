@@ -4,7 +4,7 @@ permalink: /Certificate/
 
 Below is the certificate I have.
 
-# 1. (Machine Learning) Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+# 1. (Machine Learning) Introduction to TensorFlow for artificial intelligence, machine learning, and deep learning
 - Issuing Organization: Coursera
 - Date: Nov, 2021
 
