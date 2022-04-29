@@ -4,6 +4,27 @@ permalink: /Publications/
 
 The journal/conference papers I have published are shown below.  
 
+
+# (2022) A maximum entropy formalism model for the breakup of a droplet
+Chia-Wei Kuo and Mario F. Trujillo, "A maximum entropy formalism model for the breakup of a droplet", <i>Physics of Fluids</i>. Vol. 34, 013315, 2022.
+
+[Access the paper](https://aip.scitation.org/doi/10.1063/5.0076910)
+
+A model for the prediction of the size and velocity distribution of daughter droplets created by the breakup of an unstable parent droplet is proposed. The basis of the model is the maximum entropy formalism, which states that the most probable joint probability density function (JPDF) for the daughter droplet population is the one that maximizes the Bayesian entropy conditional on the enforcement of a set of constraints, which are the conservation laws for the problem. The result is a closed-form expression for the JPDF. Validation against experimental and Direct Numerical Simulations data over the bag, multimode, and sheet-thinning breakup regimes is included. Predictions from the model show that the daughter droplet velocity distribution widens as the droplet size decreases. This result is due to a heightened sensitivity to drag force with lower droplet inertia and coincides with spray behavior. The velocity distribution is found to be near Gaussian. The model does not treat size and velocity as independently distributed, as generally assumed in the literature. In fact, marginal conditional densities derived from JPDF show that the distribution of size and velocity are interrelated.
+
+
+<p align="center">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/breakUp1.png' width="50%">
+<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/breakUp2.png' width="50%">
+</p>
+
+
+&nbsp;
+&nbsp;
+
+---
+
+
 # (2021) An analysis of the performance enhancement with adaptive mesh refinement for spray problems
 Chia-Wei Kuo and Mario F. Trujillo, "An analysis of the performance enhancement with adaptive mesh refinement for spray problems", <i>International Journal of Multiphase Flow</i>. Vol. 140, 103615, 2021.
 
