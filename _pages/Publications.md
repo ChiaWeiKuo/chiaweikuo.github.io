@@ -14,8 +14,8 @@ A model for the prediction of the size and velocity distribution of daughter dro
 
 
 <p align="center">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/breakUp1.png' width="50%">
-<img src='https://phxiranter.github.io/chiaweikuo.github.io/images/breakUp2.png' width="50%">
+<img src='https://github.com/ChiaWeiKuo/chiaweikuo.github.io/blob/master/images/breakUp1.png' width="50%">
+<img src='https://github.com/ChiaWeiKuo/chiaweikuo.github.io/blob/master/images/breakUp2.png' width="50%">
 </p>
 
 
